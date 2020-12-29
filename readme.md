@@ -2,7 +2,7 @@
 
 For this exercise you must get the tests to pass.
 
-#### Part I 
+####  
 
 - Write a constructor function for a `Stack`
 
